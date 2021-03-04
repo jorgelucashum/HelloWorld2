@@ -12,6 +12,7 @@ namespace HelloWorld2
         {
             // && - and
             // || - or
+            // ! - not (nega o resultado, transformando no oposto)
             // == - igualar
             // != - diferente
             // >= - <=
